@@ -15,7 +15,6 @@
     "react",
     "react-hooks",
     "prettier",
-    "@typescript-eslint",
     "@typescript-eslint/eslint-plugin"
   ],
   "rules": {},

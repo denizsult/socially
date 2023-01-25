@@ -11,3 +11,5 @@ export const NotFoundRoute: RouteObject = {
   path: "*",
   element: NotFound(),
 };
+
+

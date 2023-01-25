@@ -20,3 +20,6 @@ We welcome any contributions to the development of Socially. Please submit a pul
 
 ## Support
 If you encounter any issues or have questions, please contact us at [denisultanoglu@gmail.com](mailto:denisultanoglu@gmail.com)
+
+## Design
+[Socially UI](https://www.figma.com/file/KV2yYn0Es8bKim3YasXRQj/Social-Media-Web-App-UI-KIT)
