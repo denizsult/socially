@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Button type="link"> ANAN </Button>
+      <Button type="link"> Test </Button>
     </div>
   );
 }
